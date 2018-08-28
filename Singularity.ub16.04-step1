@@ -15,5 +15,5 @@ Version ub16.04-step1
     export ANSWER=42
 
 %post
-    # apt-get
+    apt-get -y update
     apt-get -y install lsb-release
