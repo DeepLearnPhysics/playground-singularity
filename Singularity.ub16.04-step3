@@ -14,7 +14,7 @@ singularity exec THIS_CONTAINER.simg bash
 
 %labels
 Maintainer drinkingkazu
-Version ub16.04-step4
+Version ub16.04-step3
 
 #------------
 # Global installation
